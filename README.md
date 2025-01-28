@@ -55,10 +55,10 @@
 :</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 800px; margin: auto;">
-  <img src="img2.jpg" alt="Electronic Product 1" width="250" height="250" style="display: block; margin: auto;">
-  <img src="img3.jpg" alt="Electronic Product 2" width="250" height="250" style="display: block; margin: auto;">
-  <img src="img4.jpg" alt="Electronic Product 3" width="250" height="250" style="display: block; margin: auto;">
-  <img src="img5.jpg" alt="Electronic Product 4" width="250" height="250" style="display: block; margin: auto;">
+  <img src="img2.jpg" alt="Electronic Product 1" width="350" height="350" style="display: block; margin: auto;">
+  <img src="img3.jpg" alt="Electronic Product 2" width="350" height="350" style="display: block; margin: auto;">
+  <img src="img4.jpg" alt="Electronic Product 3" width="350" height="350" style="display: block; margin: auto;">
+  <img src="img5.jpg" alt="Electronic Product 4" width="350" height="350" style="display: block; margin: auto;">
 </div>
 
 
