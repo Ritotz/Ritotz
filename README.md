@@ -16,7 +16,7 @@
 </div>
 
 
-<h3 align="center">🔬 AI Engineer | Passionate about Robotics & AIoT | Teaching, Sharing & Education Technology</h3>
+<h3 align="center">🔬 AI Engineer | Passionate about Robotics & AIoT | Teaching, Sharing & Technology</h3>
 
 <div align="center">
   <img src="img1.jpg" alt="Description" width="750" height="450">
