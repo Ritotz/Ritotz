@@ -53,12 +53,17 @@
 
 <h3 align="center">Electronic Products:</h3>
 
-<center>
-  <img src="img2.jpg" alt="Electronic Product 1" width="350" height="350">
-  <img src="img3.jpg" alt="Electronic Product 2" width="350" height="350">
-  <img src="img4.jpg" alt="Electronic Product 3" width="350" height="350">
-  <img src="img5.jpg" alt="Electronic Product 4" width="350" height="350">
-</center>
+<table align="center">
+  <tr>
+    <td><img src="img2.jpg" alt="Electronic Product 1" width="350" height="350"></td>
+    <td><img src="img3.jpg" alt="Electronic Product 2" width="350" height="350"></td>
+  </tr>
+  <tr>
+    <td><img src="img4.jpg" alt="Electronic Product 3" width="350" height="350"></td>
+    <td><img src="img5.jpg" alt="Electronic Product 4" width="350" height="350"></td>
+  </tr>
+</table>
+
 
 
 
