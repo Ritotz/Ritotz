@@ -53,7 +53,7 @@
 
 <h3 align="left">Electronic products:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 800px; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 700px; margin: auto;">
   <img src="img2.jpg" alt="Electronic Product 1" width="350" height="350" style="display: block; margin: auto;">
   <img src="img3.jpg" alt="Electronic Product 2" width="350" height="350" style="display: block; margin: auto;">
   <img src="img4.jpg" alt="Electronic Product 3" width="350" height="350" style="display: block; margin: auto;">
