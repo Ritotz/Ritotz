@@ -45,7 +45,8 @@
 <div align="center">
   <img src="image.png" alt="Description" width="750" height="450">
 </div>
-<p align="left">
+
+<p align="center">
   <a href="https://www.facebook.com/profile.php?id=61572510444911" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
