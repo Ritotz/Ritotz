@@ -51,7 +51,7 @@
 </p>
 
 
-<h3 align="center">Electronic Products:</h3>
+<h3 align="left">Electronic Products:</h3>
 
 <table align="center">
   <tr>
