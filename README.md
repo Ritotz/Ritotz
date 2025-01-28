@@ -47,7 +47,7 @@
 </div>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61572510444911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61572510444911" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@aiot-robotics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aiot-robotics" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/@aiot-robotics](https://www.youtube.com/@AIOT-Robotics)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aiot-robotics" height="30" width="40" /></a>
 </p>
 
 
